@@ -1,2 +1,2 @@
-# Bible_3_12_C_YOLOv3_workflow_VOC
-https://wikidocs.net/176436
+# Bible_3_12_E_YOLOv3_workflow_OIDv6
+https://wikidocs.net/176438
